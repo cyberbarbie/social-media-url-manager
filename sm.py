@@ -7,7 +7,8 @@ social_media_links = {
     "twitch": "https://twitch.tv/cyberbarbie",
     "youtube": "https://youtube.com/taeluralexis",
     "blog": "https://taeluralexis.com",
-    "intro": "Follow my social media links to stay connected! My Twitter is https://twitter.com/taeluralexis, my Twitch is https://twitch.com/cyberbarbie and https://youtube.com/taeluralexis for my youtube channel! I also create coding tutorials at https://taeluralexis.com!"
+    "intro": "Follow my social media links to stay connected! My Twitter is https://twitter.com/taeluralexis, my Twitch is https://twitch.com/cyberbarbie and https://youtube.com/taeluralexis for my youtube channel! I also create coding tutorials at https://taeluralexis.com!",
+    "github": "github.com/cyberbarbie"
 }
 
 if len(sys.argv) < 2: 
