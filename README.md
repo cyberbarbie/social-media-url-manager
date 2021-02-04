@@ -7,7 +7,8 @@ Python automation script to copy + paste social media URLs and summary for you
 
 ### Example Script
 Example scripts to get the URLs for my blog, twitter or twitch
-`python3 sm.py blog` - copies URL for blog to clipboard 
-`python3 sm.py twitter` - copies URL for twitter to clipboard
-`python3 sm.py twitch` - copies URL for twitch to copied 
+
+- `python3 sm.py blog` - copies URL for blog to clipboard 
+- `python3 sm.py twitter` - copies URL for twitter to clipboard
+- `python3 sm.py twitch` - copies URL for twitch to copied 
 
